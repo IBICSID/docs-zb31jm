@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-anyppr.pulaucuan.com/sitemap.xml
